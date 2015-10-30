@@ -1,0 +1,9 @@
+*.swp
+.cache-main
+.cache-tests
+.classpath
+.project
+.settings
+build.sbt
+node_modules
+target
